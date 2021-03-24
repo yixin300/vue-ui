@@ -41,7 +41,3 @@ export default {
 ## 文档
 
 [前往官网](https://yixin300.github.io/bulb-vue-ui/)
-
-## 联系方式
-
-<a href='mailto:2902978956@qq.com'>Email</a>
