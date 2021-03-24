@@ -1,6 +1,6 @@
 # Bulb-UI
 
-![npm](https://img.shields.io/npm/v/ice-vue-ui)
+![npm](https://img.shields.io/npm/v/bulb-vue-ui)
 ## 介绍
 
 Bulb-UI 是一个基于 Vue 的 UI 组件库，目前包括有 Button、Tabs、Input、Grid、
