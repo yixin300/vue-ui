@@ -1,6 +1,5 @@
 # Bulb-UI
 
-[![Build Status](https://travis-ci.org/Orange-ice/Ice-UI.svg?branch=master)](https://travis-ci.org/Orange-ice/Ice-UI)
 ![npm](https://img.shields.io/npm/v/ice-vue-ui)
 ## 介绍
 
