@@ -7,7 +7,7 @@ module.exports = {
     nav: [
       {text: '主页', link: '/'},
       {text: '文档', link: '/get-started/'},
-      {text: 'Github', link: 'https://yixin300.github.io/bulb-vue-ui/'},
+      {text: 'Github', link: 'https://github.com/yixin300'},
     ],
     displayAllHeaders: true, // 默认值：false
     sidebar: [
